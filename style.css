@@ -27,7 +27,7 @@ body {
     padding: 10px;
 }
 
-.right-column video {
+.right-column {
     flex: 70%;
     background-color: white;
     padding: 20px;
