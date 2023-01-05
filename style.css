@@ -12,7 +12,6 @@ body {
 .head-link a {
     display: block;
     color: rgb(0, 0, 0);
-    text-align: center;
     padding: 14px 20px;
     text-decoration: none;
     overflow: hidden;
@@ -26,14 +25,12 @@ body {
     flex: 30%;
     background-color: #f1f1f1;
     padding: 10px;
-    float: left;
 }
 
 .right-column video {
     flex: 70%;
     background-color: white;
     padding: 20px;
-    float: right;
 }
 
 .footer {
